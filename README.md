@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-pimpale" alt="rishikesh-pimpale" /></a> </p>
 
+- 👯 My Area of Interest's are **Web development** and **Cloud computing**
+
 - 🌱 I’m currently learning **Node.js and react**
 
 <h3 align="left">Connect with me:</h3>
