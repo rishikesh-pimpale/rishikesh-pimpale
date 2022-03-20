@@ -5,7 +5,7 @@
 
 - 👯 My Area of Interest's are **Web development** and **Cloud computing**
 
-- 🌱 I’m currently learning **Node.js and react**
+- 🌱 I’m currently learning **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
